@@ -43,3 +43,10 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# macOS files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
